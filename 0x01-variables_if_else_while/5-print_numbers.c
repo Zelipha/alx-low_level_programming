@@ -11,10 +11,9 @@
 
 	int s = 0;
 
-	while (s <= 9)
-		{
-	printf("%d\n", s);
-	s++;
-		}
-		return (0);
+	for (s = 0; s < 10; s++)
+	{
+	printf("%d", s);
+	}
+	return (0);
 }
