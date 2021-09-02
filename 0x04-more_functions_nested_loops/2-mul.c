@@ -2,7 +2,7 @@
 #include "main.h"
 
 /**
- * int mul - entry point
+ * mul - entry point
  * @a: character to check
  * @b: character to check
  * Description: multiply two integers
