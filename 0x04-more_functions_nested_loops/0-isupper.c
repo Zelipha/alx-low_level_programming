@@ -4,7 +4,7 @@
 /**
  * _isupper - entry point
  * @c: character to check
- * Description: checks for a digit (0 through 9)
+ * Description: checks for uppercase character
  * Return: 0
 */
 int _isupper(int c)
