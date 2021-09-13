@@ -5,7 +5,7 @@
 * Description - A function that locates a character in a string
 * *@s: the function accepts an input saved into s
 * *@c: the function accepts an input saved into c
-* Return Always 0
+* Return: Always 0
 */
 char *_strchr(char *s, char c)
 {
