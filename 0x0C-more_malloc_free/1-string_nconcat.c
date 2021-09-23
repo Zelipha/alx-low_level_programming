@@ -1,6 +1,7 @@
 #include "main.h"
 #include <stdlib.h>
-
+#include <string.h>
+#include <stddef.h>
 /**
  * string_nconcat - Concatenates two strings using at
  *                  most an inputted number of bytes.
