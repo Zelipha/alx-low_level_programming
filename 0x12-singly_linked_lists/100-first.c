@@ -3,7 +3,7 @@
 /**
  * main - entry point
  *
- * Return: 0
+ * Return: Always 0
  */
 void __attribute__ ((constructor)) before_main()
 {
